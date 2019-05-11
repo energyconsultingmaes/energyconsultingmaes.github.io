@@ -1,0 +1,147 @@
+body {
+background-color:#F2F2F3;
+overflow-y: scroll;
+}
+
+a {
+color: darkolivegreen;
+font-family: Verdana;
+text-decoration:none;
+}
+
+th {
+background-color:#639344;
+height: 50px;
+width: 400px;
+
+}
+
+th.b{
+border: solid 2px black;
+height: 50px;
+width: 150px;
+background-color:darkolivegreen;
+font-family: Verdana;
+
+}
+
+th.c{
+background-color:#F2F2F3;
+width: 150px;
+}
+
+td {
+font-family: Verdana;
+}
+
+td.d{
+
+border: solid 2px black;
+height: 50px;
+width: 200px;
+background-color:darkolivegreen;
+font-family: Verdana;
+
+}
+
+.h1 {
+border: solid 3px black;
+
+}
+
+.h2 {
+border: solid 3px black;
+
+}
+
+.h3 {
+border: solid 3px black;
+
+}
+
+.h4 {
+border: solid 3px black;
+
+}
+
+p {
+font-size: 30px;
+font-family: Verdana;
+color: darkslategray;
+}
+
+p1 {
+text-align:center;
+font-size: 30px;
+font-family: Verdana;
+color: darkslategray;
+
+
+}
+
+p2 {
+font-family: Verdana;
+color: darkslategray;
+font-size: 15px;
+}
+
+p3 {
+font-family: Verdana;
+color: darkslategray;
+position: fixed;
+bottom: 10px;
+right: 10px;
+}
+
+ul {
+font-family: Verdana;
+color: darkslategray;
+font-size: 15px;
+}
+
+
+
+img.a {
+
+width: 800px;
+height: 600px;
+
+}
+
+img.b {
+
+width: 700px;
+height: 400px;
+
+}
+
+img.c {
+color: lightsteelblue;
+z-index: 1;
+}
+
+.container{
+width:100%;
+
+}
+
+.container img{
+width:93%;
+border-radius:100px;
+margin-bottom:10px;
+
+}
+
+.text{
+position:relative;
+margin-top:-40%;
+text-align:center;
+}
+
+
+.center{
+text-align:center;
+list-style-position:inside;
+
+}
+
